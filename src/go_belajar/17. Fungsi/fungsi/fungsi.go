@@ -6,7 +6,6 @@ import "strings"
 func main() {
 	var name = []string{"John", "wick"}
 	printMessage("Hallo", name)
-
 	
 }
 
